@@ -51,7 +51,7 @@ Libraries used:
 
 ### Feature Importance (Random Forest)
 
-![Feature Importance](images/feature_importance.png)
+<img width="708" height="541" alt="image" src="https://github.com/user-attachments/assets/6dedc3d4-ef3a-4322-8f26-0d5f0a3e7f2e" />
 
 **Insights:**
 - **Area** and **Perimeter** contribute the most to seed classification.
@@ -64,7 +64,7 @@ Random Forest inherently provides feature importance, improving model interpreta
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+<img width="501" height="393" alt="image" src="https://github.com/user-attachments/assets/4f77ea1d-7589-4f71-afb8-49ae581c76e2" />
 
 **Insights:**
 - Majority of predictions lie on the diagonal, indicating **high accuracy**.
